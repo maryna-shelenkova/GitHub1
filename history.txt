@@ -1,0 +1,359 @@
+    1  ssh-keygen
+    2  cat /c/Users/sshel/.ssh/id_ed25519
+    3  cat SHA256:AS2l47vhvKlqAeuETNjggUgSPgLgKcIdE1bAOA3pplY sshel@DESKTOP-SRJREIL
+    4  cat /c/Users/sshel/.ssh/id_ed25519.pub
+    5  ssh-keygen
+    6  ls /c/Users/sshel/.ssh/
+    7  cat /c/Users/sshel/.ssh/
+    8  cat ~/c/Users/sshel/.ssh/id_ed25519.pub
+    9  cat ~ cat /c/Users/sshel/.ssh/id_rsa.pub
+   10  ls -ai ~o.ssh
+   11  ls -al ~/.ssh
+   12  ls -al ~/.ssh/id.rsa.pub
+   13   ssh-keygen -t rsa -b 4096 -C "maryna.shelenkova@gmx.de"
+   14   ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   15  ssh -i ~/.ssh/id_rsa ec2-user@linux.itcareerhub.de
+   16  cat ~/.ssh/id_rsa.pub
+   17  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   18  cat /c/Users/sshel/.ssh/id_rsa 
+   19  cat ~ -i.ssh/id_ed25519
+   20  cat ~/ ssh/id_ed25519
+   21  cat ~/.ssh/id_25519
+   22  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   23  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   24  ssh -i ~/.ssh/id_ed25519 ec2-user@linux.itcareerhub.de
+   25  cat ~/.ssh/id_25519.pub
+   26  cat ~/.ssh/id_25519.pub
+   27  ssh -vvv -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   28  mkdir /opt/160924-ptm/mshel
+   29  ls
+   30  mkdir /opt/160924/mshel
+   31  cd /opt
+   32  ls
+   33   cat
+   34   cat ~/.ssh/id_rsa.pub
+   35  ssh -vvv -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   36  ssh -vvv -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   37  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   38  mkdir /opt/160924/mshel
+   39  cd /opt
+   40  mkdir /opt/160924-ptm/mshel
+   41  mkdir -p /opt/160924-ptm/mshel
+   42  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   43  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   44  ls
+   45  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   46  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   47  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   48   ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   49  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   50  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   51  clear
+   52  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   53  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   54  pwd
+   55  mv .process_management
+   56  mv --help
+   57  mv process_management .process_management
+   58  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   59  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   60  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   61  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   62  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   63  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   64  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   65  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   66  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   67  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   68  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   69  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   70  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   71  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   72  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   73  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   74  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   75  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+   76  git config --global user "mshel"
+   77  git config --global user.name "mshel"
+   78  git config show scope
+   79  git config --global user.name "maryna.shelenkova@gmx.de"
+   80  git config --global user.name "mshel"
+   81  git config -- globl user.email "maryna.shelenkova@gmx.de"
+   82  global user.email "maryna.shelenkova@gmx.de"
+   83  git config -- global user.email "maryna.shelenkova@gmx.de"
+   84   git config -- global user.email "maryna.shelenkova@gmx.de"
+   85  pwd
+   86  mkdir ~/new_first_repo
+   87  pwd
+   88   mkdir ~/new_first_repo
+   89  pwd
+   90  mkdir ~/new_first_repo
+   91  cd new_first_repo
+   92  touch file.txt
+   93  git add file.txt
+   94  git add file.txt
+   95  git init
+   96  git add file.txt
+   97  git status
+   98  git commit -m "first commit"
+   99   git config --global user.emal"maryna.shelenkova@gmx.de"
+  100    git config --global user.name "Marina"
+  101  git config --global user.name "Marina"
+  102  git commit -m "first commit"
+  103   git config --global user.email "maryna.shelenkova@gmx.de"
+  104  git config --global user.name "mshel"
+  105  git commit -m "first commit"
+  106  git status
+  107  git remote e add origin https://github.com/maryna-shelenkova/new_first_repo.git
+  108  git push -u origin
+  109  git branch -M main
+  110  git push -u origin main
+  111  git branch -a
+  112  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  113  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  114  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  115  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  116  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  117  cd /tmp
+  118  vim
+  119  vim file.txt
+  120  df -h | head -3 >> file.txt
+  121  cat file.txt
+  122  chmod g+wx file.txt
+  123  ls -la
+  124  chmod  o-rwx file.txt
+  125  touch myfirstbashscript.sh
+  126  export USER=MARINA
+  127  cd /tmp
+  128  vim file.txt
+  129  cat file.txt
+  130  chmod g+wx file.txt
+  131  ls -la
+  132  chmod  o-rwx file.txt
+  133  touch myfirstbashscript.sh
+  134  chmod +x myfirstbashscript.sh
+  135  export USER=MARINA
+  136  ./myfirstbashscript.sh
+  137  cd /tmp/myfirstbashscript.sh
+  138  cat cd myfirstbashscript.sh
+  139  cat myfirstbashscript.sh
+  140  cat < myfirstbashscript.sh >> /tmp/file.txt
+  141  cat file.txt
+  142  history >>  /tmp/file.txt
+  143  cat file.txt
+  144  export_file /tmp/file.txt
+  145  export_file /tmp/file.txt
+  146  export_file /tmp/file.txt
+  147  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  148  MKDIR GIT_INTRO
+  149  mkdir git_intro
+  150  cd git_intro
+  151  git init
+  152  git branch _M main
+  153  git branch -M main
+  154  git remote add origin https://github.com/maryna-shelenkova/git_intro.git 
+  155  git remote -v
+  156  пше ыефегы
+  157  git status
+  158  git status
+  159  git status
+  160  mkdir git_intro
+  161  cd git_intro
+  162  git init
+  163  git branch _M main
+  164  git branch -M main
+  165  git remote add origin https://github.com/maryna-shelenkova/git_intro.git
+  166  git remote -v
+  167  git status
+  168  git init
+  169  git commit -m "Added photo"
+  170  git branch -M main
+  171  git remote add origin  https://github.com/maryna-shelenkova/git_intro.git
+  172  git push -u origin main
+  173  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  174  mkdir git_intro
+  175  cd git_intro
+  176   git init
+  177  git branch _M main
+  178  git branch -M main
+  179  git remote add origin https://github.com/maryna-shelenkova/git_intro.git
+  180   git remote -v
+  181  git status
+  182  git status
+  183  git init
+  184  git commit -m "Added photo"
+  185  git branch -M main
+  186  git remote add origin  https://github.com/maryna-shelenkova/git_intro.git
+  187  git push -u origin main
+  188  git file  Download.jpg
+  189  git add  Download.jpg
+  190  git branch -M main
+  191  git remote add origin  https://github.com/maryna-shelenkova/git_intro.git
+  192  git push -u origin main
+  193  git status
+  194  git commit
+  195  git status
+  196  git push -u origin main
+  197  mkdir git-branch
+  198  cd git-branch
+  199  git init
+  200  git branch -M main
+  201  git remote add origin https://github.com/maryna-shelenkova/git-branch.git
+  202  git checkout -b 'gitignore'
+  203  git branch -M gitignore
+  204  curl -o https://github.com/aliaskov/bashscripts/blob/master/.gitignore 
+  205  curl -O https://github.com/aliaskov/bashscripts/blob/master/.gitignore 
+  206  ls -a
+  207  git add .gitignore
+  208  git status
+  209  git commit -m 
+  210  'git commit -m  "added gitignore"
+  211   git commit
+  212  mkdir git-branch
+  213  cd git-branch
+  214  ls -a
+  215  git status
+  216  git commit -m  "added gitignore"
+  217  git push -u origin main
+  218  git push -u origin git-branch
+  219  git branch -a
+  220  gitk & all
+  221  git branch -r
+  222  git push -u origin git-branch
+  223   git push -u origin/git-branch
+  224   git push -u origin git-branch
+  225  git pull
+  226  git remote -v
+  227  git branch -D gitignore
+  228  rm -rf .git
+  229  ls
+  230  ls
+  231  git init git-branch
+  232  rm - r  .git
+  233  rm -r .git
+  234  mkdir git-branch
+  235  rm -r git-branch
+  236  mkdir git-branch
+  237   cd git-branch
+  238  git init
+  239  git branch -M main
+  240  git remote add origin https://github.com/maryna-shelenkova/git-branch.git
+  241  git branch -b gitignore
+  242   git checkout -b gitignore
+  243  git branch -M ditignore
+  244  touch file.txt
+  245  echo Hello Git branch > file.txt
+  246  cat file.txt
+  247  ls
+  248  git status
+  249  git add file.txt
+  250  git status
+  251  git commit
+  252  git status
+  253  git push -u  origin git-branch
+  254  git remote add origin https://github.com/maryna-shelenkova/git-branch.git
+  255   git push -u  origin git-branch
+  256  git remote rm origin
+  257  git remote rm upstream
+  258  git remote rm git-branch
+  259  git remote set-url origin git@github.com:maryna-shelenkova/git-branch.git
+  260  git remote set-url git@github.com:maryna-shelenkova/git-branch.git
+  261  git push -u  origin git-branch
+  262  git push -u origin git-branch
+  263  git push git-branch
+  264   git push --set-upstream git-branch ditignore
+  265  rm -rf git-branch 
+  266  cd..
+  267  cd..
+  268  pwd
+  269  ls
+  270  mkdir ~/git-branch1
+  271  cd git-branch1
+  272  git init
+  273  git branch -M main
+  274  git remote add origin https://github.com/maryna-shelenkova/git-branch1.git
+  275  git checkout -b gitignore
+  276  git branch -M gitignore
+  277  curl -O https://github.com/aliaskov/bashscripts/blob/master/.gitignore 
+  278  ls
+  279  ls -a
+  280  gitt add .gitignore
+  281  git commit  -m "added gitignore"
+  282  git add .gitignore
+  283  ls -a
+  284  git commit  -m "added gitignore"
+  285  git push -u origin gitignore
+  286  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  287  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  288  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  289  vi
+  290  ./script.txt
+  291  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  292  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  293  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  294  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  295  touch script.sh
+  296  vim script.sh
+  297  ls
+  298  ./ script.sh
+  299  chmod +x script.sh
+  300  ./script.sh
+  301  vim script.sh
+  302  ./ script.sh
+  303  vim
+  304  vim script.sh
+  305  ssh -i ~/.ssh/id_25519 ec2-user@linux.itcareerhub.de
+  306  git intro
+  307  mkdir GitHub
+  308  cd GitHub
+  309  git init
+  310  git branch main -M
+  311  git remote and origin https://github.com/maryna-shelenkova/GitHub.git
+  312  git remote add origin https://github.com/maryna-shelenkova/GitHub.git
+  313  git remote -v
+  314  git status
+  315  git clone  https://github.com/maryna-shelenkova/GitHub.git
+  316  pwd
+  317  ls -la
+  318  git clone https://github.com/maryna-shelenkova/GitHub.git
+  319  cd GitHub
+  320  git clone https://github.com/maryna-shelenkova/GitHub1.git
+  321  cd GitHub1
+  322  git checout -b feature
+  323  ls -la
+  324  git clone https://github.com/maryna-shelenkova/GitHub1.git
+  325  cd GitHub1
+  326  git checkout -b feature
+  327  ls -la
+  328  touch readme.md
+  329  ls -la
+  330  echo "Новая папка в ветке" > readme.md
+  331  vim .gitignore
+  332  git commit -m
+  333  git commit
+  334  git add .gitignore
+  335  git add readme.md
+  336  git commit -a
+  337  git commit
+  338  git commit -m
+  339  git push -u origin main
+  340  ls -la
+  341  cat readme.md
+  342  git add readme.md
+  343  cat readme.md
+  344  git commit -m "Добавляем файл readme.md"
+  345  git push -u origin main
+  346  git log
+  347  cd GutHub1
+  348  ls -la
+  349  cd GitHub1
+  350  git push -u origin feature
+  351  git commit -amend ammend
+  352  git commit -amend "ammend"
+  353  git commit -amend -m "ammend"
+  354  git commit --amend -m "ammend"
+  355  git checout main
+  356  git checkout main
+  357  git checkout -b main
+  358  git merge feature
+  359  history > history.txt
